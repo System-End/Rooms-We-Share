@@ -1,0 +1,25 @@
+# DragonRuby engine files (not included - users must download DragonRuby separately)
+dragonruby
+dragonruby-httpd
+dragonruby-publish
+console-logo.png
+dragonruby.png
+dragonruby-controller.png
+font.ttf
+ctags-*
+eula.txt
+open-source-licenses.txt
+README.txt
+VERSION.txt
+docs/
+samples/
+.dragonruby/
+
+# Runtime-generated files
+logs/
+tmp/
+builds/
+mygame/logs/
+mygame/errors/
+mygame/tmp/
+mygame/builds/
