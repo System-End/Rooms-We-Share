@@ -26,7 +26,3 @@ Explore a house and discover different perspectives. Start as the Host and unloc
 ## Development
 
 Built with DragonRuby GTK using a geometric/minimalist art style with color-based mood system.
-
-## License
-
-See LICENSE file for details.
