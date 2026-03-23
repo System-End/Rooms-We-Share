@@ -24,8 +24,8 @@ PALETTES = {
     bg: { r: 180, g: 175, b: 170 },
     wall: { r: 100, g: 95, b: 90 },
     object: { r: 160, g: 155, b: 150 },
-    text: { r: 220, g: 155, b: 150 },
-    accent: { r: 200, g: 180, b: 140 },
+    text: { r: 60, g: 55, b: 50 },
+    accent: { r: 120, g: 90, b: 60 },
     player: { r: 150, g: 145, b: 140 },
     overlay: { r: 0, g: 0, b: 0, a: 0 }
   },
@@ -33,17 +33,17 @@ PALETTES = {
     bg: { r: 40,  g: 45,  b: 70 },
     wall: { r: 25, g: 25, b: 45 },
     object: { r: 80, g: 60, b: 60 },
-    text: { r: 200, g: 150, b: 150 },
-    accent: { r: 220, g: 60,  b: 60  },
-    player: { r: 80,  g: 80,  b: 160 },
+    text: { r: 220, g: 220, b: 240 },
+    accent: { r: 255, g: 120,  b: 120 },
+    player: { r: 80,  g: 80, b: 160 },
     overlay: { r: 10, g: 10, b: 40, a: 60 }
   },
   little: {
     bg: { r: 255, g: 230, b: 200 },
     wall: { r: 200, g: 170, b: 180 },
     object: { r: 255, g: 200, b: 160 },
-    text: { r: 255, g: 220, b: 200 },
-    accent: { r: 255, g: 200, b: 100 },
+    text: { r: 100, g: 60, b: 40 },
+    accent: { r: 200, g: 120, b: 40 },
     player: { r: 255, g: 200, b: 180 },
     overlay: { r: 255, g: 230, b: 180, a: 30 }
   },
@@ -51,8 +51,8 @@ PALETTES = {
     bg: { r: 210, g: 210, b: 210 },
     wall: { r: 50, g: 50, b: 50 },
     object: { r: 180, g: 180, b: 180 },
-    text: { r: 100, g: 220, b: 100 },
-    accent: { r: 100, g: 255, b: 100 },
+    text: { r: 40, g: 40, b: 40 },
+    accent: { r: 60, g: 140, b: 60 },
     player: { r: 170, g: 170, b: 170 },
     overlay: { r: 0, g: 0, b: 0, a: 20 }
   }
